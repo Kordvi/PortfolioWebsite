@@ -8,8 +8,7 @@ It allows users to assess if they are interested in me/my work and contact me.
 
 <h3>UI</h3>
 
-This project is relatively mobile friendly I believe from the coding perspective,
-although that is untested, likely still a few kinks to work out.
+This project is mobile friendly
 
 <h3>Technologies Used</h3>
 <ul>
