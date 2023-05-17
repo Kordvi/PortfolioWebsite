@@ -65,12 +65,12 @@ The content on this site will come from my work in the future.
 
 #Media
 
-The background photo used on this site was obtained from 
-Image by <a href="https://www.freepik.com/free-photo/blurred-night-lights_4324133.htm#query=Background%20FUturistic%20IT%20Anime&position=25&from_view=search&track=ais">Freepik</a>
+The background photo used on this site was obtained from Freepik
+<a href="https://www.freepik.com/free-vector/elegant-soft-orange-white-watercolor-background_3358049.htm#query=orange%20peach%20background&position=5&from_view=search&track=ais">Image by starline</a> on Freepik
 
 ##Acknowledgements
 
-The Nav bar content is from a Learning People Tutorial Video https://trainwithtlp.percipio.com/courses/f43e4f10-a795-11e8-b008-273445f09c7a/videos/18b83ae0-a796-11e8-b008-273445f09c7a
 
-The Portfolio Item Layout and Footer are from FreeCodeCamp https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/
+
+The Portfolio Item Layout, Footer and Navbar are from FreeCodeCamp https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/
 

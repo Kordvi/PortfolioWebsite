@@ -1,22 +1,21 @@
 body {
-    background-image: url('images/simplebg.jpg');
+    background-image: url('images/peach.jpg');
     background-attachment: scroll;
     width: 100%;
     height: 100%;
     background-size: cover;
     background-color: rgba(211, 211, 211, 0.3);
-    }
-p {
-    font-display: white;
 }
-
+h1 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
 
 .social-icons {/* https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/ */
     font-size: 36px;
     cursor: pointer;
 }
-.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
+.fa-facebook:hover,.fa-linkedin:hover{
     color: #008000;
 }
 .fab {
