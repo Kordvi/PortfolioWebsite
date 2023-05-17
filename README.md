@@ -2,7 +2,7 @@
 
 This is the first version of my portfolio website, 
 it makes use of bootstrap for the navbar and some layout elements.
-The website has a few pages that are clearly accessible,
+The website has a single page that fits well on a browser or a phone,
 and the structure to include future projects to flesh out the portfolio section.
 It allows users to assess if they are interested in me/my work and contact me.
 
